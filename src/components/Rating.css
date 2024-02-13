@@ -1,0 +1,23 @@
+/* Set the font size for the skill name */
+.skill p {
+    font-size: 18px;
+
+  }
+
+  /* Set the font size for the star icons */
+  .rating {
+    font-size: 18px;
+  }
+
+  /* Set the color for the clicked star icons */
+  .clicked {
+    color: gold;
+  }
+  i{
+    align-self: start;
+  }
+  table{
+    width:100%;
+    height: 30%;
+  }
+  
